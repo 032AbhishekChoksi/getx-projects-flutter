@@ -1,8 +1,8 @@
-# get_connect_with_state_mixin
+# GetX Projects in Flutter
 
-This Playlist is about GetX
+This project is about GetX
 
-![](https://github.com/032AbhishekChoksi)
+![](https://github.com/032AbhishekChoksi/getx-playlist-flutter/blob/main/get.png)
 
 ## GetX Package Official URL
 
