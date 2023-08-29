@@ -1,6 +1,6 @@
 # GetX Projects in Flutter
 
-This projects is about GetX
+This project is about GetX
 
 ![](https://github.com/032AbhishekChoksi/getx-playlist-flutter/blob/main/get.png)
 
